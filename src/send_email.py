@@ -23,8 +23,8 @@ def send_mail(username, password, custom_message, date):
     <h3>{0}</h3>
     <table>
     <tr>
-    <th>Company</th>
     <th>Price</th>
+    <th>Company</th>
     </tr>
     {1}
     </table>
