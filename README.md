@@ -1,2 +1,2 @@
 # Pricer
-A price checker for the Grainfather  - A craft beer tool 
+An easy price comparator the Grainfather micro brewery
